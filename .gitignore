@@ -1,0 +1,25 @@
+# Dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# Production
+frontend/build
+
+# Python
+backend/__pycache__/
+backend/venv/
+*.pyc
+
+# Environment
+.env
+.env.local
+backend/service-account.json
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+npm-debug.log*
