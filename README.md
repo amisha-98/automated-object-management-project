@@ -11,7 +11,7 @@ A file management system that automatically sorts uploaded files into appropriat
 ## Dependencies
 - Frontend: React.js
 - Backend: Flask
-- Cloud: Google Cloud Storage, Google Cloud Functions, Google CLoud Pub/Sub, and Cloud IAM (for authentication) 
+- Cloud: Google Cloud Storage, Google Cloud Run, Google CLoud Pub/Sub, and Cloud IAM (for authentication) 
 
 ### Frontend
 1. cd frontend
